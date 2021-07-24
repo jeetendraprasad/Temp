@@ -9,3 +9,10 @@ JNIEXPORT void JNICALL Java_PrintName_printName
   (*env)->ReleaseStringUTFChars(env, name, myName);
     
 }
+
+JNIEXPORT void JNICALL Java_PrintName_greeting
+  (JNIEnv *env, jclass this){
+
+  printf("Greeting from C world.\n");
+    
+}

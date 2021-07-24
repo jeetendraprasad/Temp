@@ -1,0 +1,7 @@
+Updating C/C++ dependencies...
+
+Downloading package 'C/C++ language components (Linux / x86_64)'  Failed. Retrying... Failed. Retrying... Failed. Retrying...Waiting 8 seconds... Failed. Retrying...Waiting 16 seconds... Failed to download https://go.microsoft.com/fwlink/?linkid=2167520
+Failed at stage: downloadPackages
+failed (error code '404')
+
+If you work in an offline environment or repeatedly see this error, try downloading a version of the extension with all the dependencies pre-included from https://github.com/microsoft/vscode-cpptools/releases, then use the "Install from VSIX" command in VS Code to install it.

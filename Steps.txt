@@ -1,0 +1,11 @@
+0> "cd" to this folder
+
+1> Create a file PrintName.java
+
+2> javac -h . PrintName.java
+
+3> export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
+4> gcc -fPIC -I"$JAVA_HOME/include" -I"$JAVA_HOME/include/linux" -shared -o libname.so PrintName.c
+
+5> java -Djava.library.path=. PrintName

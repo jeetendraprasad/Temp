@@ -1,3 +1,8 @@
+Steps to call cpp code from java
+--------------------------------
+
+Refer Website : https://refactoredcodes.com/how-to-call-c-or-cpp-function-from-java-jni-native-function-implementation/
+
 0> "cd" to this folder
 
 1> Create a file PrintName.java

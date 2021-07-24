@@ -1,0 +1,1 @@
+https://refactoredcodes.com/how-to-call-c-or-cpp-function-from-java-jni-native-function-implementation/

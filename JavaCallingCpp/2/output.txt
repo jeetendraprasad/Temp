@@ -1,0 +1,8 @@
+[JAVA]68
+[JAVA] Printing combined message in Java. [C++]COMBINED MSG :[JAVA]Message1 [JAVA]Message2
+[C++]My Name is :- [JAVA]Jeetendra Prasad.
+[C++]Greeting from C world.
+[C++]Adding 23 and 45.
+[C++]String1 is :- [JAVA]Message1.
+[C++]String2 is :-  [JAVA]Message2.
+[C++]COMBINED MSG :[JAVA]Message1 [JAVA]Message2

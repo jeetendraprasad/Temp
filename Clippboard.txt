@@ -1,0 +1,4 @@
+openssh-server in ubuntu
+xauth in ubuntu
+
+ssh -t <windowshost> "wsl ~"
